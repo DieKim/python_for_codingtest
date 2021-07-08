@@ -1,4 +1,4 @@
-# Algorithm_Coding_Test
+# Algorithm_For_Coding_Test
 코딩테스트 대비 알고리즘 공부 기록입니다. (20.07.~ing)
 
 * [Jump_to_Python](): [점프 투 파이썬](https://wikidocs.net/book/1) 교재 독학 (20.07.21~20.08.02)  
