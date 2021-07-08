@@ -5,8 +5,8 @@
 * __[Baekjoon](https://github.com/DieKim/Algorithm_CodingTest/tree/main/Baekjoon)__: 백준 단계별로 풀어보기 01-09 (20.12.~21.01.) with 박민준
 * __Programmers__: 프로그래머스 Level 01-05 (예정)
 
-|       Index       | Date | Contents | With | 
+|       Index       | Date | Link | Contents |  
 |:----------------:|:----------------------------------------:|:----------:|:----------:
-| 01 | 20.07. | [Jump to Python](https://github.com/DieKim/Algorithm_CodingTest/tree/main/Jump_to_Python) | |
-| 02 | 20.12.~21.01. | [Baekjoon](https://github.com/DieKim/Algorithm_CodingTest/tree/main/Baekjoon) | 박민준 |
-| 03 | 예정 | Programmers | |
+| 01 | 20.07.21~20.08.02 | [Jump to Python](https://wikidocs.net/book/1) | 점프 투 파이썬 교재 독학 |
+| 02 | 20.12.~21.01. | [Baekjoon](https://www.acmicpc.net/) | 백준 단계별로 풀어보기 01-09 with 박민준 |
+| 03 | 예정 | [Programmers](https://programmers.co.kr/) | 프로그래머스 Level 01-05 |
