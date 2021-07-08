@@ -7,6 +7,6 @@
 
 |       Index       | Date | Contents | With | 
 |:----------------:|:----------------------------------------:|:----------:|:----------:
-| 01 | 20.07.21~20.08.02 | [Jump to Python](https://github.com/DieKim/Algorithm_CodingTest/tree/main/Jump_to_Python) | |
+| 01 | 20.07. | [Jump to Python](https://github.com/DieKim/Algorithm_CodingTest/tree/main/Jump_to_Python) | |
 | 02 | 20.12.~21.01. | [Baekjoon](https://github.com/DieKim/Algorithm_CodingTest/tree/main/Baekjoon) | 박민준 |
 | 03 | 예정 | Programmers | |
