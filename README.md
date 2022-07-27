@@ -1,5 +1,5 @@
 # Algorithm_For_Coding_Test
-코딩테스트 대비 알고리즘 공부 기록입니다. (20.07.~ing)
+코딩테스트 대비 알고리즘 공부 기록입니다.
 
 ## 💡 Curriculum
 
